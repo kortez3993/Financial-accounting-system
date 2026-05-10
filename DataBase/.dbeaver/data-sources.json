@@ -37,6 +37,7 @@
 			}
 		}
 	},
+	"virtual-models": {"postgres-jdbc-19e1268d7c1-704946a742143ef5":{"finance":{"public":{":users":{"properties":{"erd.diagram.state":{"serialized":"\u003cdiagram version\u003d\"1\" name\u003d\"empty\" time\u003d\"202605101944\"\u003e\u003centities\u003e\u003cdata-source id\u003d\"postgres-jdbc-19e1268d7c1-704946a742143ef5\"\u003e\u003centity id\u003d\"1\" name\u003d\"users\" fq-name\u003d\"public.users\" order\u003d\"0\" color-bg\u003d\"128,64,32\" x\u003d\"50\" y\u003d\"41\"\u003e\u003cpath name\u003d\"public\"/\u003e\u003cpath name\u003d\"finance\"/\u003e\u003c/entity\u003e\u003c/data-source\u003e\u003c/entities\u003e\u003crelations/\u003e\u003c/diagram\u003e"}}}}}}},
 	"connection-types": {
 		"dev": {
 			"name": "Разработка",
