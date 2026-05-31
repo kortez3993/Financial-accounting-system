@@ -20,3 +20,7 @@ spring:
 
 server:
   port: 8080
+
+jwt:
+  secret: mySecretKeyForFinanceAppThatShouldBeVeryLongAndSecureForJWTTokenGeneration
+  expiration: 900000
